@@ -1,0 +1,2 @@
+cd C:\Users\susmitha\eclipse-workspace\CucumberSample
+mvn clean install
